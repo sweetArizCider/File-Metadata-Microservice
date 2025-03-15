@@ -1,10 +1,12 @@
 /****** Main Styling ******/
-
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+*{
+  font-family: Karla, sans-serif;
+}
 body {
-  font-family: 'Roboto', sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #ECF0F1;
+  color: #ECF0F1;
+  background-color: #222;
   text-align: center;
 }
 
